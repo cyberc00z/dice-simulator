@@ -1,0 +1,6 @@
+#!/usr/bin/env sh
+
+echo  "Printing Dice Project"
+
+python3 simple_dice.py
+python3 dice.py
