@@ -2,5 +2,7 @@
 
 echo  "Printing Dice Project"
 
-python3 simple_dice.py
+# uncomment for simple dice roller
+#python3 simple_dice.py
+
 python3 dice.py
